@@ -1,0 +1,11 @@
+  for (let character of str) {
+// es2015 for loop
+
+
+  for (let char in )
+
+  // objektille
+
+
+regex - regular expression
+word.replace(/[^\w]/g, "")
