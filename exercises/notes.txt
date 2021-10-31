@@ -13,3 +13,14 @@ sorting O(n*log(n))
 
 
 -- space complexity - ram usage - 
+
+
+DATA STRUCTURES
+
+optimal runtime complexity for adding or removing
+
+QUEUE 
+- FIFO - first in first out
+- queue class:
+- array jossa pelkästään: array.unshift - array.pop
+
