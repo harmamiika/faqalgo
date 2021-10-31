@@ -1,0 +1,15 @@
+Runtime complexity ~ big O akateemisesti
+
+O(n) - linear
+O(1) - constant
+O(n^2) - Quadratic
+
+string looping - linear
+two nested loops - same collecion - Quadratic O(n^2) (= n*n)
+two nested loop different collections O(n*m)
+
+searching O(log(n))
+sorting O(n*log(n))
+
+
+-- space complexity - ram usage - 
