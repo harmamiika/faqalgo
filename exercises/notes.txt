@@ -24,3 +24,6 @@ QUEUE
 - queue class:
 - array jossa pelkästään: array.unshift - array.pop
 
+LINKED LIST
+
+nodeOne.next = nodeTwo 
