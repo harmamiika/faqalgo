@@ -26,4 +26,11 @@ QUEUE
 
 LINKED LIST
 
-nodeOne.next = nodeTwo 
+nodeOne.next = nodeTwo
+
+
+GENERATOR - es2015
+
+ensimmäinen function call = {}
+toinen (eli ensimmäinen next) yeldiin asti = {}
+kolmas kerta laittaa (toinen next) yeldiin annetun arvon = {}
