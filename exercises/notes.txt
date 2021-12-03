@@ -34,3 +34,43 @@ GENERATOR - es2015
 ensimmäinen function call = {}
 toinen (eli ensimmäinen next) yeldiin asti = {}
 kolmas kerta laittaa (toinen next) yeldiin annetun arvon = {}
+
+
+
+TREES
+Breadth-First traversal
+- puun tasot kerrallaan
+
+Depth-First traversal
+- puun oksahaara kerrallaan sivusta lähtien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  for (let character of str) {
+// es2015 for loop
+
+
+  for (let char in )
+
+  // objektille
+
+
+regex - regular expression
+word.replace(/[^\w]/g, "")
