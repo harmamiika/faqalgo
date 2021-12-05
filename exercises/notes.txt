@@ -44,10 +44,16 @@ Breadth-First traversal
 Depth-First traversal
 - puun oksahaara kerrallaan sivusta lähtien
 
+BINARY TREE
+-2 (tai vähemmän) lasta joka parentilla 
 
+BINARY SEARCH TREE
 
+-  10 
+  5       15
+1   7    11     99
 
-
+vasen < value, oikea > value
 
 
 
